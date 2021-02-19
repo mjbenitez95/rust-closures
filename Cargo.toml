@@ -1,0 +1,6 @@
+[package]
+name = "functional-features"
+version = "0.1.0"
+authors = ["Matthew Benitez <m.benitez@caci.com>"]
+
+[dependencies]
